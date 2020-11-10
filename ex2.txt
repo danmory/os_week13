@@ -1,0 +1,3 @@
+Deadlock avoidance is better in any case 
+because it is allows us to do not waste time and resouces
+to resolve problem with the deadlock.
